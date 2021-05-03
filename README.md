@@ -3,7 +3,7 @@
 ## Implementation
 ```
 pip install -r requirements.txt
-python main.py --path="{TARGET_IMAGE_PATH}"
+python main.py --path={TARGET_IMAGE_PATH}
 ```
 
 ## Demo
