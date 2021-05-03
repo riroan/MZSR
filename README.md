@@ -7,6 +7,9 @@ python main.py --path={TARGET_IMAGE_PATH}
 ```
 
 ## Demo
+
+100 epochs
+
 <img src="images/Aatrox.png" width="120" height="120" />   120x120
 
 <img src="images/result.png" width="240" height="240" />   240x240
