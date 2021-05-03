@@ -8,4 +8,4 @@ python main.py --path="{TARGET_IMAGE_PATH}"
 
 ### reference
 
-https://arxiv.org/pdf/2002.12213.pdf
+[Meta-Transfer Learning for Zero-Shot Super-Resolution](https://arxiv.org/pdf/2002.12213.pdf, "MZSR")
