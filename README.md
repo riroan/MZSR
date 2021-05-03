@@ -1,5 +1,11 @@
 # Meta Transfer Learning for Zero Shot Super Resolution
 
+## Environment
+- OS : Window 10 Pro
+- CUDA : 11.3
+- CUDNN : 8.3
+- GPU : RTX3070 (-> 120x120 inference time : 5s)
+
 ## Implementation
 ```
 pip install -r requirements.txt
