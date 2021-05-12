@@ -2,6 +2,7 @@
 
 ## Environment
 - OS : Window 10 Pro
+- python : 3.8.5
 - CUDA : 11.3
 - cudnn : 8.3
 - GPU : RTX3070 (-> 120x120 inference time : 5s)
