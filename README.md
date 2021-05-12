@@ -21,7 +21,7 @@ python main.py --path={TARGET_IMAGE_PATH}
 
 <img src="images/result.png" width="240" height="240" />   240x240
 
-This model is scale-invariant.
+#### This model is scale-invariant.
 
 ### reference
 
